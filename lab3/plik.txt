@@ -1,0 +1,5 @@
+1;Samsung galaxy s20;4000;elektronika
+2;Apple Iphone 11 pro;5000;elektronika
+3;FIFA 20;120;gry
+4;Counter Strike;50;gry
+5;4pak piwa;12;napoje
